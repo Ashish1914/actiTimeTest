@@ -1,0 +1,11 @@
+Test ... to rename 
+Edited from above(ie github.com) and then i will verify that i am able to pull all the changes down!!
+
+
+Rename:-----------
+Copy file : to copy a file to a different location (first example), or to the same folder but with a new name (second example)
+cp logo.png image/logo.png
+cp index.php index.php_old
+ 
+
+http://kb.mediatemple.net/questions/247/Common+SSH+Commands#gs
