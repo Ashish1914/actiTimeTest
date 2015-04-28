@@ -1,0 +1,12 @@
+This is just to test that $ vim/vi and touch cmd
+
+1. Edit new/existing file:
+
+$ vi <file name> - will open file 
+
+If this is a new file, it'll be empty when you open it, and you can start adding content. If this is an existing file, you'll see its contents, which you can now edit..
+
+vi tip: Press "i" to enter "insert mode" so you can type and copy/paste. Use the arrow keys to move back and forth in the file. Press "Esc" to exit "insert mode" when you are done modifying the file. Type ":wq" to save and quit.
+
+2.  Create an empty file (which you can later open for editing):
+$ touch <newfile.txt>
