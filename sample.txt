@@ -1,3 +1,5 @@
+I am wriing again to produce merge conflicts. !! 
+
 This is just to test that $ vim/vi and touch cmd
 
 1. Edit new/existing file:
